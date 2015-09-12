@@ -1,8 +1,6 @@
-// © copyright 2013  Gabriel Maldonado.  All Rights Reserved.
+// Â© copyright 2013  Gabriel Maldonado.  All Rights Reserved.
 // Author: Gabriel Maldonado
 // Date: 2/08/2013
-// Contact:  Gabriel.Maldonado@live.lagcc.cuny.edu
-// Description: 	
 
 #include <iostream>
 #include <time.h>
