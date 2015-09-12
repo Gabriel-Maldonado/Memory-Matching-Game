@@ -26,7 +26,7 @@ int main ()
 	intro=0; //Setting intro=0 Will start our first intro Message.
 	srand((unsigned)time(0));  //initialize random seed.
 
-	SetConsoleTitle ( _T("THE MEMORY MATCHING GAME v0.11") ); //Displays the title to our program.
+	SetConsoleTitle ( _T("THE MEMORY MATCHING GAME") ); //Displays the title to our program.
 
 	while (init = true)
 	{
