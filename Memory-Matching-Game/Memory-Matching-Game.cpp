@@ -1,7 +1,5 @@
-// © copyright 2013  Gabriel Maldonado.  All Rights Reserved.
-// Author: Gabriel Maldonado
-// Date: 2/08/2013
-
+// © Copyright 2013  Gabriel Maldonado.  All Rights Reserved.
+// Linkedin: https://www.linkedin.com/pub/gabriel-maldonado/63/457/866
 #include <iostream>
 #include <time.h>
 #include <conio.h>
